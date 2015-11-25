@@ -1,0 +1,1 @@
+This is a simple Java Desktop application developed in Netbeans. You can specify any nested expression in infix notation. The calculator first converts the infix expression into postfix and then computes the expression.
